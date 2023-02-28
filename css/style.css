@@ -173,7 +173,7 @@ a {
     @media (max-width: 600px) {
       .site-hero {
         background: url('/images/joemainsmall1.jpg') !important; 
-        /* background-position: right center; */
+        background-position: center center;
       } }
   .site-hero h1, .site-hero .lead {
     font-weight: 200;
@@ -345,6 +345,12 @@ a {
       font-size: 12px;
       text-transform: uppercase;
       color: #cccccc; }
+
+  @media (max-width: 576px) {
+    .single-portfolio {
+    width: 100px;
+    }
+      }
 
 /*--------- Start Portfolio Area -------------*/
 .portfolio-area .primary-btn {
