@@ -169,6 +169,12 @@ a {
     @media (min-width: 768px) {
       .site-hero h1 {
         font-size: 70px; } }
+
+    @media (max-width: 768px) {
+      .site-hero {
+        background: url('/images/joemainsmall1.jpg') !important; 
+        /* background-position: right center; */
+      } }
   .site-hero h1, .site-hero .lead {
     font-weight: 200;
     color: #fff; }
@@ -180,7 +186,7 @@ a {
     color: rgba(255, 255, 255, 0.5); }
 
 .site-section {
-  padding: 40px 0; }
+  padding: 50px 0; }
 
 .section-heading {
   margin-bottom: 30px;
@@ -623,3 +629,6 @@ a {
 .letter-spacing {
   letter-spacing: .2rem;
   color: rgba(255, 255, 255, 0.5) !important; }
+
+
+ 
