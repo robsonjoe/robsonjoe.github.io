@@ -1,4 +1,19 @@
 {
+    "lesson_name": "ancient_sea",
+	"categories": [
+		{
+			"label": "Atoms",
+			"name": "atoms"
+		},
+		{
+			"label": "Bonds",
+			"name": "bonds"
+		},
+		{
+			"label": "Lipids",
+			"name": "lipids"
+		}
+    ],
     "models": [
 		{
 			"category": "atoms",
