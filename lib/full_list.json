@@ -1,5 +1,5 @@
 {
-    "lesson_name": "ancient_sea",
+    "lesson_name": "full_list",
 	"categories": [
 		{
 			"label": "Atoms",
@@ -12,6 +12,18 @@
 		{
 			"label": "Lipids",
 			"name": "lipids"
+		},
+		{
+			"label": "Proteins",
+			"name": "proteins"
+		},
+		{
+			"label": "Nucleic Acids",
+			"name": "nucleic_acids"
+		},
+		{
+			"label": "Carbohydrates",
+			"name": "carbohydrates"
 		}
     ],
     "models": [
@@ -104,7 +116,53 @@
 			"category": "lipids",
 			"name": "monolipid_layer_straight",
 			"label": "Monolayer Straight"
+		},
+		{
+			"category": "proteins",
+			"name": "protein_1",
+			"label": "Protein 1"
+		},
+		{
+			"category": "proteins",
+			"name": "protein_2",
+			"label": "Protein 2"
+		},
+		{
+			"category": "proteins",
+			"name": "protein_3",
+			"label": "Protein 3"
+		},
+		{
+			"category": "nucleic_acids",
+			"name": "nucleic_acid_1",
+			"label": "Nucleic 1"
+		},
+		{
+			"category": "nucleic_acids",
+			"name": "nucleic_acid_2",
+			"label": "Nucleic 2"
+		},
+		{
+			"category": "nucleic_acids",
+			"name": "nucleic_acid_3",
+			"label": "Nucleic 3"
+		},
+		{
+			"category": "carbohydrates",
+			"name": "carbohydrate_1",
+			"label": "Carb 1"
+		},
+		{
+			"category": "carbohydrates",
+			"name": "carbohydrate_2",
+			"label": "Carb 2"
+		},
+		{
+			"category": "carbohydrates",
+			"name": "carbohydrate_3",
+			"label": "Carb 3"
 		}
+
 	]
 }
 
